@@ -6,3 +6,4 @@ Mis skills para Claude. Cada carpeta en `skills/` es una skill con su `SKILL.md`
 |---|---|---|
 | caveman | github.com/JuliusBrussee/caveman | Apache-2.0 |
 | humanizer | github.com/blader/humanizer | MIT |
+| caveman-es | Versión en español de caveman (adaptada, no traducida) | Uso personal |
